@@ -1,6 +1,6 @@
 # Flutter Image Slider Implementation
 
-A new Flutter project.
+A carousel Flutter project.
 
 ## Getting Started
 
