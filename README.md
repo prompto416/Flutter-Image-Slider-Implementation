@@ -1,4 +1,4 @@
-# secondi_main
+# Flutter Image Slider Implementation
 
 A new Flutter project.
 
